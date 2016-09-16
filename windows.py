@@ -7,7 +7,7 @@ import datetime
 import json
 from collections import OrderedDict
 
-token='efb8bcc1-dddc-3056-9dce-09836f4e01e2'
+token='$TOKEN'
 
 def rando():
 	hostnames = ['Server1', 'Server2', 'Server3', 'Server4', 'Server5']
