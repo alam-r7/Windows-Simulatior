@@ -9,6 +9,7 @@ token='$TOKEN'
 # Replace $TOKEN with the log token
 
 def rando():
+	the_event = ''
 	hostnames = ['Server1', 'Server2', 'Server3', 'Server4', 'Server5']
 	users = ['ADMINISTRATOR', 'ADMIN', 'USER', 'ADMINISTRADOR', 'TEST', 'ROOT', 'USER1', 'SUPPORT', 'MANAGER', 'GUEST', 'Administrator', 'SCANNER', 'SERVER', 'OFFICE', 'BACKUP', 'LOGIN', 'SYSTEM', 'SQL', 'SCAN', 'ADMINS', 'QWERTY', '123', 'USERNAME', 'TEST1', 'SYS', 'SERVERS', 'PASSWORD', 'NETWORK', 'ADMINISTRATORS', 'ZCTZ', 'XEROX', 'SKLAD', 'NEADMIN', 'MYSQL', 'LOCAL', 'BOSSAADMIN', 'ADMINUSER', 'ADMINISTRATEUR', 'ADMIN123', 'ZSUPPORT']
 	OUs = ['Finance', 'Developers', 'Support T1', 'Sales', 'IT_HelpDesk', 'IT_Admin', 'HR']
